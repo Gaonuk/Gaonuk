@@ -8,7 +8,7 @@
 - 💻 Currently developing [@bundle](https://github.com/BundleCL) and [@orbitars](https://github.com/orbitars)
 - 🥅 2020 Goals: Develop my first Dapp
 - 📚 Teaching assistant of Software Engineering IIC2143
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 
 
 ### Spotify Playing 🎧
 
