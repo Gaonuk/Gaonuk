@@ -1,24 +1,21 @@
-### Hi there, I'm Rodrigo - aka [Gaonuk][website] 👋
+### Hi there, I'm Rodrigo - aka Gaonuk 👋
+
+[<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
+[<img src="https://img.shields.io/badge/Gaonuk%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>][instagram]
 
 ## I'm a Student, Hacker, Entrepreneur, and Gamer!!
 
 - 
 - 🌱 I’m currently learning about Blockchain and Web3 
-- 👯 I’m looking to collaborate with others or play videogames!
 - 💻 Currently developing [@bundle](https://github.com/BundleCL) and [@orbitars](https://github.com/orbitars)
 - 🥅 2020 Goals: Develop my first Dapp
 - 📚 Teaching assistant of Software Engineering IIC2143
-- 🎮 I play League of Legends (OMW to Challenger)
-- 📖 I'm a bookworm! 
+- 🎮 I play League of Legends (OMW to Challenger, currently at Platinum 1)
+- 📖 I'm a bookworm! Currently reading: Dune by Frank Herbert
 
 ### Spotify Playing 🎧
 
 [![Spotify](https://novatorem.gaonuk.vercel.app/api/spotify)](https://open.spotify.com/user/rgaonagonzalez)
-
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -38,6 +35,8 @@
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][pg]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][rubyonrails]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][rubyonrails]
+
+<br />
 
 ---
 
