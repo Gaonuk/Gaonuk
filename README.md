@@ -11,7 +11,7 @@
 
 ### Spotify Playing 🎧
 
-![Spotify](https://novatorem.gaonuk.vercel.app/api/spotify)](https://open.spotify.com/user/rgaonagonzalez)
+[![Spotify](https://novatorem.gaonuk.vercel.app/api/spotify)](https://open.spotify.com/user/rgaonagonzalez)
 
 ### Connect with me:
 
