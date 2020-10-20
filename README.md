@@ -37,19 +37,11 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][rubyonrails]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][rubyonrails]
 
-
-<br />
-<br />
-
-
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+<summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Gaonuk's GitHub Stats" src="https://github-readme-stats.gaonuk.vercel.app/api?username=Gaonuk&show_icons=true&hide_border=true" />
-
-</details>
+<img align="left" alt="Gaonuk's GitHub Stats" src="https://github-readme-stats.gaonuk.vercel.app/api?username=Gaonuk&show_icons=true&hide_border=true" />
 
 [instagram]: https://instagram.com/Gaonuk
 [linkedin]: https://www.linkedin.com/in/rodrigo-gaona-gonz%C3%A1lez-a39908172/
