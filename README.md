@@ -2,11 +2,12 @@
 
 ## I'm a Student, Hacker, Entrepreneur, and Gamer!!
 
+- 
 - 🌱 I’m currently learning about Blockchain and Web3 
 - 👯 I’m looking to collaborate with others or play videogames!
-- 
+- 💻 Currently developing [@bundle](https://github.com/BundleCL) and [@orbitars](https://github.com/orbitars)
 - 🥅 2020 Goals: Develop my first Dapp
-- 
+- 📚 Teaching assistant of Software Engineering IIC2143
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
 ### Spotify Playing 🎧
