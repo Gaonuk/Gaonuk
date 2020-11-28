@@ -10,7 +10,7 @@
 - 💻 Currently developing [@bundle](https://github.com/BundleCL) and [@orbitars](https://github.com/orbitars)
 - 🥅 2020 Goals: Develop my first Dapp
 - 📚 Teaching assistant of Software Engineering IIC2143
-- 🎮 I play League of Legends (OMW to Challenger, currently at Platinum 1) 
+- 🎮 I play League of Legends (OMW to Challenger, currently at Diamond 4) 
 - 📖 I'm a bookworm! Currently reading: Dune by Frank Herbert
 
 ### Spotify Playing 🎧
