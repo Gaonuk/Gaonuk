@@ -42,7 +42,7 @@
 
 <summary>:zap: GitHub Stats</summary>
 
-<img align="left" alt="Gaonuk's GitHub Stats" src="https://github-readme-stats.gaonuk.vercel.app/api?username=Gaonuk&show_icons=true&hide_border=true" />
+<img align="left" alt="Gaonuk's GitHub Stats" src="https://github-readme-stats.gaonuk.vercel.app/api?username=Gaonuk&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 
 [instagram]: https://instagram.com/Gaonuk
 [linkedin]: https://www.linkedin.com/in/rodrigo-gaona-gonz%C3%A1lez-a39908172/
