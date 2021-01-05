@@ -6,9 +6,9 @@
 ## I'm a Student, Hacker, Entrepreneur, and Gamer!!
 
 - 🚀 Passionate for Startups, Entrepreneurship and Innovation
-- 🌱 I’m currently learning about Blockchain and Web3 
-- 💻 Currently developing [@bundle](https://github.com/BundleCL) and [@orbitars](https://github.com/orbitars)
-- 🥅 2020 Goals: Develop my first Dapp
+- 🌱 I’m currently learning about Blockchain and Web3, Serverless and AWS.
+- 💻 Software Engineering Intern @ [Floid](https://floid.cl/en/)
+- 🥅 2021 Goals: A mistery?
 - 📚 Teaching assistant of Software Engineering IIC2143
 - 🎮 I play League of Legends (OMW to Challenger, currently at Diamond 4) 
 - 📖 I'm a bookworm! Currently reading: Dune by Frank Herbert
