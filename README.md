@@ -6,9 +6,9 @@
 ## I'm a Student, Hacker, Entrepreneur, and Gamer!!
 
 - 🚀 Passionate for Startups, Entrepreneurship and Innovation
-- 🌱 I’m currently learning about Blockchain and Web3, Serverless and AWS.
-- 💻 Software Engineering Intern @ [Floid](https://floid.cl/en/)
-- 🥅 2021 Goals: A mistery?
+- 🌱 I’m currently learning about Blockchain, Serverless and AWS.
+- 💻 Software Engineering @ [Floid](https://somosfloid.com/world/home)
+- 🥅 2021 Goals: Hodl Luna and build something on the Terra blockchain!
 - 📚 Teaching assistant of Software Engineering IIC2143
 - 🎮 I play League of Legends (OMW to Challenger, currently at Diamond 4) 
 - 📖 I'm a bookworm! Currently reading: Dune by Frank Herbert
