@@ -8,7 +8,6 @@
 - 🚀 Passionate for Startups, Entrepreneurship and Innovation
 - 🌱 I’m currently learning about Blockchain, Smart Contracts, Rust and AWS.
 - 🥅 2021 Goals: Hodl Luna and build something on the Terra blockchain!
-- 📚 Teaching assistant of Software Engineering IIC2143
 - 🎮 I play League of Legends (OMW to Challenger, currently at Platinum 2) 
 - 📖 I'm a bookworm! Currently reading: Skyward by Brandon Sanderson
 
