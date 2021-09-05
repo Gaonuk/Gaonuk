@@ -13,15 +13,6 @@
 - 🎮 I play League of Legends (OMW to Challenger, currently at Platinum 2) 
 - 📖 I'm a bookworm! Currently reading: Skyward by Brandon Sanderson
 
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem.gaonuk.vercel.app/api/spotify)](https://open.spotify.com/user/rgaonagonzalez)
-
-### Games Playing 🎮
-
-#### Feature Coming soon!
-<img src="https://img.shields.io/badge/riotgames%20-%23D32936.svg?&style=for-the-badge&logo=riot-games&logoColor=white" />
-
 ### Languages and Tools:
 
 [<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />][rubyonrails] 
