@@ -3,11 +3,11 @@
 [<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
 [<img src="https://img.shields.io/badge/Gaonuk%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>][instagram]
 
-## I'm a Student, Hacker, Entrepreneur, and Gamer!!
+## A little more about me
 
+- 🚀 Solidity Dev @ [Arch Finance](https://www.archfinance.io)
 - 🚀 Passionate for Startups, Entrepreneurship and Innovation
 - 🌱 I’m currently learning about Blockchain, Smart Contracts, Rust and AWS.
-- 🥅 2021 Goals: Hodl Luna and build something on the Terra blockchain!
 - 🎮 I play League of Legends (OMW to Challenger, currently at Platinum 2) 
 - 📖 I'm a bookworm! Currently reading: Skyward by Brandon Sanderson
 
@@ -28,10 +28,6 @@
 <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 
 ---
-
-<summary>:zap: GitHub Stats</summary>
-
-<img align="left" alt="Gaonuk's GitHub Stats" src="https://github-readme-stats.gaonuk.vercel.app/api?username=Gaonuk&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 
 [instagram]: https://instagram.com/Gaonuk
 [linkedin]: https://www.linkedin.com/in/rodrigo-gaona-gonz%C3%A1lez-a39908172/
