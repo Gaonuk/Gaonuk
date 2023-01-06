@@ -1,15 +1,14 @@
-### Hi there, I'm Rodrigo - aka Gaonuk 👋
+### Hi there, I'm Rodrigo - also known as ArchDucke and Gaonuk 👋
 
 [<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
 [<img src="https://img.shields.io/badge/Gaonuk%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>][instagram]
 
 ## A little more about me
 
-- 🚀 Solidity Dev @ [Arch Finance](https://www.archfinance.io)
+- 🚀 Fullstack Web3 @ [Arch Finance](https://www.arch.finance)
 - 🚀 Passionate for Startups, Entrepreneurship and Innovation
-- 🌱 I’m currently learning about Blockchain, Smart Contracts, Rust and AWS.
-- 🎮 I play League of Legends (OMW to Challenger, currently at Platinum 2) 
-- 📖 I'm a bookworm! Currently reading: Skyward by Brandon Sanderson
+- 🌱 I’m currently learning about ZKPs, Rust and Infra
+- 🎮 Game enjoyer (mainly Dead By Daylight)
 
 ### Languages and Tools:
 
