@@ -4,7 +4,7 @@
 
 ## A little more about me
 
-- 🚀 Fullstack Web3 @ [Arch Finance](https://www.arch.finance)
+- 🚀 Fullstack Web3 @ [Arch](https://www.arch.finance)
 - 🚀 Passionate for Startups, Entrepreneurship and Innovation
 - 🌱 I’m currently learning about ZKPs, Rust and Infra
 - 🎮 Game enjoyer (mainly Dead By Daylight)
